@@ -3,7 +3,6 @@ import bodyParser from "body-parser";
 import Replicate from "replicate";
 import cors from "cors";
 import multer from "multer";
-import fetch from "node-fetch";
 import dotenv from "dotenv";
 
 dotenv.config();
